@@ -62,6 +62,7 @@
     "dist"
   ],
   "dependencies": {
-    "moment": "^2.27.0"
+    "moment": "^2.27.0",
+    "yarn": "^1.22.4"
   }
 }

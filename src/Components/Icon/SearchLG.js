@@ -1,0 +1,7 @@
+import React from "react";
+
+const SearchLG = (props) => (
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 73.83 72.89"{...props}><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#b7b9bb;}</style><clipPath id="clip-path" transform="translate(0 0)"><rect class="cls-1" width="73.83" height="72.89"/></clipPath></defs><title>Search LG</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><g class="cls-2"><path class="cls-3" d="M51.64,29A22.38,22.38,0,1,0,29.25,51.25,22.37,22.37,0,0,0,51.64,29M73.83,67.23v2c-1.71,4.56-6.9,4.76-9.52,1.45A33.22,33.22,0,0,0,61.67,68L46.19,52.51c-6,4-12.44,6.08-19.58,5.3C14.77,56.5,6.55,50.28,2,39.38c-1-2.5-1.38-5.3-2-8V26.54c.14-.79.27-1.58.42-2.36A29.29,29.29,0,0,1,32.89.2C51.22,2.28,63.13,21.42,56.72,38.59c-.94,2.5-2.32,4.84-3.55,7.37C59,51.71,64.88,57.5,70.72,63.36a45,45,0,0,1,3.11,3.87" transform="translate(0 0)"/></g></g></g></svg>
+);
+
+export default SearchLG;

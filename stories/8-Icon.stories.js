@@ -43,6 +43,7 @@ storiesOf("Icon", module).add("Showcase", () => (
     <Icon kind="link" />
     <Icon kind="unknownFile" />
     <Icon kind="camera" />
+    <Icon kind="ProfileInfoProfessionalStatus" />
     </div>
   </>
 ));
